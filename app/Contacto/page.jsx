@@ -106,7 +106,7 @@ function Page() {
         <h2 className="mt-4 text-xl font-bold text-white">Facebook</h2>
 
         <p className="mt-1 text-sm text-gray-300">
-          MyhticalStore
+          MythicalStore
         </p>
       </a>
 
