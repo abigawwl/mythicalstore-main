@@ -43,7 +43,7 @@ function Page() {
         <h2 className="mt-4 text-xl font-bold text-white">Teléfono</h2>
 
         <p className="mt-1 text-sm text-gray-300">
-          +505 8152 5553
+          +505 8152 5589
         </p>
       </a>
 
