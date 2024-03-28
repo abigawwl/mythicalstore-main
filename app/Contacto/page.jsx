@@ -136,7 +136,7 @@ function Page() {
         <h2 className="mt-4 text-xl font-bold text-white">Correo electrónico</h2>
 
         <p className="mt-1 text-sm text-gray-300">
-          MythicalStore@gmail
+          MythicalStore@gmail.com
         </p>
       </a>
   
